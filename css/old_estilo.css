@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+*{
+    color: white;
+}
+
+header{
+    background-color: #4f0f63;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    /* color:  #88459e ; */
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+    margin: 45px;
+    padding: 7px;
+    block-size: 50px;
+}
+
+Nav{
+    background-color: #712e89 ;
+    height: 35px;
+    /* color:  #c582dc ; */
+}
+
+a{
+    color: #d8d8d8  ;
+}
+
+a:hover{
+    color:#5a0587  ;
+}
+
+body {
+  background-color:  #c86bd5 ;
+  
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    /* isso é um estilo para o elemento h1 */
+
+    margin: 17px;
+    padding: 3px;
+    box-sizing: 20px;
+
+    /* Essas duas linhas finais servem somente para colocar cor e borda no objeto */
+    border: 7px;
+    border-radius: 15px;
+}
